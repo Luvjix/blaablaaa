@@ -36,7 +36,7 @@
     "authType": "",
     "x": 350,
     "y": 100,
-    "wires": [["function_split"],["debug_complete"]]
+    "wires": [["function_split"],["debug_complete"],["function_extract_D"],["function_extract_F"]]
   },
   {
     "id": "function_split",
